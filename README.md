@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mingshan Qiu
+- 👀 I’m interested in coding, mathematics and philosophy
+- 📚 I’m a second year postgraduate student at South China University of Technology
+- 💞️ My reserach interests are Transfer Learning, Domian Generalization
+- 📫 How to reach me: qiumingshangemma@gmail.com
